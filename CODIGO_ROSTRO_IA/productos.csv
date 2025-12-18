@@ -1,0 +1,30 @@
+﻿product_id,categoria,marca,nombre_producto,tipo_piel_compatible,ingredientes,beneficio,textura_tipo_producto,frecuencia_uso,url_imagen
+1,Sérum,Bioaqua,Sérum de Vitamina C,Mixta,"Vitamina C, Niacinamida","Iluminador y antioxidante",Líquido,Diario,IMAGENES DE PRODUCTOS\Serum_VitC.jpg
+2,Mascarilla,Flower Secret,Mascarilla Manzanilla,Sensible,"Extractos florales, Aloe vera","Calma y refresca",Tela,2 veces/semana,IMAGENES DE PRODUCTOS\Mascarilla_Manzanilla.jpg
+2,Mascarilla,Flower Secret,Mascarilla Manzanilla,Seca,"Extractos florales, Aloe vera","Calma y refresca",Tela,2 veces/semana,IMAGENES DE PRODUCTOS\Mascarilla_Manzanilla.jpg
+3,Crema facial,Bioaqua,Crema Hidratante V7,Seca,"Colágeno, Vitaminas B3 y E","Hidratante y reafirmante",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_V7.jpg
+4,Agua Micelar,Jarusa,Limpiador facial con rosas,Mixta,"Extracto de rosas, Pepino, Aloe vera","Limpieza e hidrata",Líquido,Diario,IMAGENES DE PRODUCTOS\AguaMicelar_Rosas.jpg
+4,Agua Micelar,Jarusa,Limpiador facial con rosas,Sensible,"Extracto de rosas, Pepino, Aloe vera","Limpieza e hidrata",Líquido,Diario,IMAGENES DE PRODUCTOS\AguaMicelar_Rosas.jpg
+5,Tónico,Dr Rashel,Tónico facial 24K GOLD,Grasa,"Oro 24K, Ácido hialurónico, Niacinamida","Luminosidad e hidratante",Líquido,Diario,IMAGENES DE PRODUCTOS\Tonico_24K.jpg
+5,Tónico,Dr Rashel,Tónico facial 24K GOLD,Mixta,"Oro 24K, Ácido hialurónico, Niacinamida","Luminosidad e hidratante",Líquido,Diario,IMAGENES DE PRODUCTOS\Tonico_24K.jpg
+5,Tónico,Dr Rashel,Tónico facial 24K GOLD,Seca,"Oro 24K, Ácido hialurónico, Niacinamida","Luminosidad e hidratante",Líquido,Diario,IMAGENES DE PRODUCTOS\Tonico_24K.jpg
+6,Ampolla,Centella Skin1004,Ampolla Tea Trica Relief,Grasa,"Centella asiática, Extractos calmantes","Calma, regenera e hidrata",Líquido,Diario,IMAGENES DE PRODUCTOS\Ampolla_Tea-Trica.jpg
+6,Ampolla,Centella Skin1004,Ampolla Tea Trica Relief,Mixta,"Centella asiática, Extractos calmantes","Calma, regenera e hidrata",Líquido,Diario,IMAGENES DE PRODUCTOS\Ampolla_Tea-Trica.jpg
+6,Ampolla,Centella Skin1004,Ampolla Tea Trica Relief,Sensible,"Centella asiática, Extractos calmantes","Calma, regenera e hidrata",Líquido,Diario,IMAGENES DE PRODUCTOS\Ampolla_Tea-Trica.jpg
+7,Exfoliante,Samantha,Exfoliante Facial de Arroz,Mixta,"Extracto de arroz, Ácido láctico","Renueva y suaviza la piel",Crema,2 veces/semana,IMAGENES DE PRODUCTOS\Exfoliante_Arroz.jpg
+8,Crema facial,Dr Rashel,Crema Anti-Edad con Oro 24K,Grasa,"Oro 24K, Colágeno","Reafirmante y antienvejecimiento",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_24K.jpg
+8,Crema facial,Dr Rashel,Crema Anti-Edad con Oro 24K,Mixta,"Oro 24K, Colágeno","Reafirmante y antienvejecimiento",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_24K.jpg
+8,Crema facial,Dr Rashel,Crema Anti-Edad con Oro 24K,Seca,"Oro 24K, Colágeno","Reafirmante y antienvejecimiento",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_24K.jpg
+9,Mascarilla,Laikou,Mascarilla de barro de Carbón,Grasa,"Carbón activado, Caolín","Limpieza profunda",Crema,1-2 veces/semana,IMAGENES DE PRODUCTOS\Mascarilla_barro_Carbon.jpg
+9,Mascarilla,Laikou,Mascarilla de barro de Carbón,Mixta,"Carbón activado, Caolín","Limpieza profunda",Crema,1-2 veces/semana,IMAGENES DE PRODUCTOS\Mascarilla_barro_Carbon.jpg
+10,Crema facial,Flower Secret,Crema de Aloe Vera,Grasa,"Extractos hidratantes, Aloe Vera","Calma y refresca",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_AloeVera.jpg
+10,Crema facial,Flower Secret,Crema de Aloe Vera,Mixta,"Extractos hidratantes, Aloe Vera","Calma y refresca",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_AloeVera.jpg
+10,Crema facial,Flower Secret,Crema de Aloe Vera,Sensible,"Extractos hidratantes, Aloe Vera","Calma y refresca",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_AloeVera.jpg
+11,Limpiador facial,Bioaqua,Espuma Limpiadora de Té Verde,Grasa,"Té verde, Ácido hialurónico","Limpieza profunda sin resecar",Espuma,Diario,IMAGENES DE PRODUCTOS\Limpiador_Te_Verde.jpg
+11,Limpiador facial,Bioaqua,Espuma Limpiadora de Té Verde,Mixta,"Té verde, Ácido hialurónico","Limpieza profunda sin resecar",Espuma,Diario,IMAGENES DE PRODUCTOS\Limpiador_Te_Verde.jpg
+12,Ampolla,Centella Skin1004,Ampolla Hyalu-CICA,Seca,"Ácido hialurónico, Centella","Hidratante y calmante",Líquido,Diario,IMAGENES DE PRODUCTOS\Ampolla_Hyalu-CICA.jpg
+13,Crema facial,Samantha,Crema de Arroz,Seca,"Extracto de arroz, Vitaminas B y E","Luminosidad y atenua machas",Crema,Diario,IMAGENES DE PRODUCTOS\Crema_Arroz.jpg
+14,Mascarilla,Bioaqua,Mascarilla de Avena,Sensible,"Extractos hidratantes, Avena","Calma e hidrata",Tela,2 veces/semana,IMAGENES DE PRODUCTOS\Mascarilla_Avena.jpg
+14,Mascarilla,Bioaqua,Mascarilla de Avena,Seca,"Extractos hidratantes, Avena","Calma e hidrata",Tela,2 veces/semana,IMAGENES DE PRODUCTOS\Mascarilla_Avena.jpg
+15,Contorno,Flower Secret,Contorno de ojos de Baba de Caracol,Sensible,"Baba de caracol, Colágeno, Elastina","Firmeza, suaviza e hidrata",Gel,Diario,IMAGENES DE PRODUCTOS\Contorno.jpg
+15,Contorno,Flower Secret,Contorno de ojos de Baba de Caracol,Seca,"Baba de caracol, Colágeno, Elastina","Firmeza, suaviza e hidrata",Gel,Diario,IMAGENES DE PRODUCTOS\Contorno.jpg
