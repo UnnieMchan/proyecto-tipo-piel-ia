@@ -171,7 +171,14 @@ if st.session_state.mostrar_resultados and st.session_state.imagen is not None:
 
                 with col1:
                     if "url_imagen" in recs.columns and pd.notna(row["url_imagen"]):
-                        st.image(row["url_imagen"], use_container_width=True)
+                         ruta_imagen = row["url_imagen"]
+                         ruta_imagen = ruta_imagen.replace("\\", "/")
+                         ruta_imagen = os.path.join(BASE_DIR, ruta_imagen)
+                         if os.path.exists(ruta_imagen):
+                             st.image(ruta_imagen, use_container_width=True)
+                         else:
+                             st.warning("Imagen no disponible")
+                        
                     else:
                         st.write("Sin imagen disponible")
                     
@@ -197,3 +204,4 @@ if st.session_state.mostrar_resultados and st.session_state.imagen is not None:
 
 # ====== EJECUTAR CON =====
 # streamlit run app.py
+
